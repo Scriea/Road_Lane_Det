@@ -1,0 +1,10 @@
+How to Use:
+
+
+For images:	python3 LaneDetection.py --data <path of image> --type 1
+for example: python LaneDetection.py --data ../data/1.jpg --type 1
+
+For Video:	python3 LaneDetection.py --data <path of video> --type 2
+for example: python LaneDetection.py --data ../data/1.mp4 --type 2
+
+Link to Dataset: https://drive.google.com/drive/folders/1dDjXIevr0f3WKpUzITCTMkYiOXrvUILJ
